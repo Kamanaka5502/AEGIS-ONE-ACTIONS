@@ -40,3 +40,19 @@ For questions or concerns about this policy or your data, email us at:
 ---
 
 _Last updated: April 1, 2025_
+
+## SMS Messaging and Opt-In Consent
+
+By interacting with AEGIS ONE via authorized channels (such as submitting requests through an endpoint or direct SMS opt-in), users **agree to receive automated SMS messages** from our official number:
+
+📱 **+1 (877) 395-6664**
+
+These messages may include:
+
+- Confirmation of received requests  
+- System status notifications  
+- Authentication or verification messages  
+- Critical alerts  
+
+Users can **opt out** at any time by replying **STOP** to any message.
+
